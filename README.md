@@ -1,6 +1,6 @@
 # 🌐 Roteamento de Redes Multi-Classe no Cisco Packet Tracer
 
-> 🎨 **Apresentação no Canva:** [Visualizar Slides do Projeto](https://canva.link/g3ogatq0hpk2prh)
+> **Apresentação no Canva:** [Visualizar Slides do Projeto](https://canva.link/g3ogatq0hpk2prh)
 > 
 > <img width="1920" height="1080" alt="ROTEAMENTO INTER-REDES" src="https://github.com/user-attachments/assets/5b61be14-36a2-4284-95ee-e757554c6e45" />
  
@@ -21,11 +21,11 @@ Atualmente, estou me capacitando no **Programa Mulher Digital** uma iniciativa a
 Este projeto consiste na simulação e implementação de uma infraestrutura corporativa dividida em três sub-redes lógicas independentes (Classes A, B e C). O objetivo central foi estabelecer a comunicação inter-redes completa através de um roteador central Cisco 2911, aplicando conceitos de endereçamento IPv4, gateways padrão e comutação via switches Catalyst 2960.
 
 ### 🛠️ Tecnologias e Ferramentas
-* **Simulador:** Cisco Packet Tracer[cite: 1]
+* **Simulador:** Cisco Packet Tracer
 * **Equipamento de Camada 3:** 1x Roteador Cisco 2911
-* **Equipamentos de Camada 2:** 3x Switches Cisco Catalyst 2960-24TT[cite: 1, 7]
-* **Dispositivos Finais:** 6x PCs[cite: 1]
-* **Protocolos e Conceitos:** IPv4, ICMP, Subnetting, Gateways Padrão, Cisco IOS CLI[cite: 1, 7]
+* **Equipamentos de Camada 2:** 3x Switches Cisco Catalyst 2960-24TT
+* **Dispositivos Finais:** 6x PCs
+* **Protocolos e Conceitos:** IPv4, ICMP, Subnetting, Gateways Padrão, Cisco IOS CLI
 
 ---
 
