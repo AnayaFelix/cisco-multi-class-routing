@@ -2,7 +2,8 @@
 
 # 🌐 Roteamento de Redes Multi-Classe no Cisco Packet Tracer
 
-> 🎨 **Apresentação no Canva:** [Visualizar Slides do Projeto]((https://canva.link/g3ogatq0hpk2prh))
+> 🎨 **Apresentação no Canva:** [Visualizar Slides do Projeto](https://canva.link/g3ogatq0hpk2prh)
+> 
 > <img width="1920" height="1080" alt="ROTEAMENTO INTER-REDES" src="https://github.com/user-attachments/assets/5b61be14-36a2-4284-95ee-e757554c6e45" />
  
 
