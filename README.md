@@ -1,5 +1,3 @@
-# cisco-multi-class-routing
-
 # 🌐 Roteamento de Redes Multi-Classe no Cisco Packet Tracer
 
 > 🎨 **Apresentação no Canva:** [Visualizar Slides do Projeto](https://canva.link/g3ogatq0hpk2prh)
