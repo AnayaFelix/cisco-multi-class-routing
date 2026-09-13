@@ -53,7 +53,7 @@ Este projeto consiste na simulação e implementação de uma infraestrutura cor
 
 ## ⚙️ Configuração dos Equipamentos (Cisco IOS / CLI)
 
-Configuração das três interfaces GigabitEthernet do Roteador Cisco 2911 para servir como gateways das respectivas sub-redes[cite: 1, 7]:
+Configuração das três interfaces GigabitEthernet do Roteador Cisco 2911 para servir como gateways das respectivas sub-redes:
 
 ```cisco
 Router> enable
