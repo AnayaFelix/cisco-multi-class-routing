@@ -14,7 +14,7 @@
 
 Olá! Sou **Anaya Felix**, graduanda em Ciência e Tecnologia com foco de especialização em Ciência da Computação na **Universidade Federal do ABC (UFABC)**. 
 
-Atualmente, estou me capacitando no **Programa Mulher Digital** — uma iniciativa apoiada pela **Cisco** e pela **JA Brasil** —, onde desenvolvo competências práticas em infraestrutura de redes, cibersegurança e arquitetura de sistemas, com foco na preparação para a certificação **Cisco Certified Support Technician (CCST) Cybersecurity**.
+Atualmente, estou me capacitando no **Programa Mulher Digital** uma iniciativa apoiada pela **Cisco** e pela **JA Brasil** , onde desenvolvo competências práticas em infraestrutura de redes, cibersegurança e arquitetura de sistemas, com foco na preparação para a certificação **Cisco Certified Support Technician (CCST) Cybersecurity**.
 
 ---
 
@@ -33,8 +33,11 @@ Este projeto consiste na simulação e implementação de uma infraestrutura cor
 
 ## 📊 Topologia e Tabela de Endereçamento
 
-![Topologia do Projeto](<img width="1920" height="1080" alt="ROTEAMENTO INTER-REDES (1)" src="https://github.com/user-attachments/assets/c781a726-f76a-4bb0-a41e-6fb599908ac1" />
-)
+[Topologia do Projeto]
+
+<img width="1920" height="1080" alt="ROTEAMENTO INTER-REDES (1)" src="https://github.com/user-attachments/assets/1a91f137-2e2b-4896-b9ec-4bfb54f00200" />
+
+
 
 | Dispositivo | Interface | Endereço IP | Máscara de Sub-rede | Gateway Padrão | Pertence à Rede |
 | :--- | :--- | :--- | :--- | :--- | :--- |
