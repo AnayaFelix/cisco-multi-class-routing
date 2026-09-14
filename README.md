@@ -77,3 +77,25 @@ Roteador(config)# interface GigabitEthernet0/2
 Roteador(config-if)# ip address 192.168.1.1 255.255.255.0
 Roteador(config-if)# no shutdown
 Roteador(config-if)# exit
+``
+
+Testes de Conectividade e Validação
+Cenário de Teste: Envio de pacote PDU (ICMP) do PC A2 (10.0.0.3 - Rede Classe A) para o PC B2 (172.16.0.3 - Rede Classe B).
+
+Resultado Obtido: Status: Successful
+
+Conclusão: A tabela de roteamento do dispositivo de Camada 3 encaminhou com êxito o tráfego entre domínios de broadcast distintos.
+
+💡 O Que Este Projeto me Agregou
+Visão Sistêmica de Arquitetura Inter-Redes: Compreensão prática do isolamento por classes de IP e do papel crítico dos Gateways Padrão na interconexão de redes.
+
+Domínio de CLI (Cisco IOS): Prática em parametrização de portas, atribuição de IPs e inicialização de interfaces em roteadores Cisco.
+
+Troubleshooting & Validação: Diagnóstico e validação da conectividade end-to-end com protocolo ICMP.
+
+📬 Contato
+E-mail: anayaafelix@gmail.com
+
+LinkedIn: linkedin.com/in/anaya-felix
+
+GitHub: github.com/anaya-felix
