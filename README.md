@@ -39,15 +39,15 @@ Este projeto consiste na simulação e implementação de uma infraestrutura cor
 
 | Dispositivo | Interface | Endereço IP | Máscara de Sub-rede | Gateway Padrão | Pertence à Rede |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Roteador** | `GigabitEthernet0/0` | `10.0.0.1`[cite: 1, 7] | `255.0.0.0`[cite: 1, 7] | N/A[cite: 1, 7] | Classe A (Gateway)[cite: 1] |
-| **Roteador** | `GigabitEthernet0/1` | `172.16.0.1`[cite: 1, 7] | `255.255.0.0`[cite: 1, 7] | N/A[cite: 1, 7] | Classe B (Gateway)[cite: 1] |
-| **Roteador** | `GigabitEthernet0/2` | `192.168.1.1`[cite: 1, 7] | `255.255.255.0`[cite: 1, 7] | N/A[cite: 1, 7] | Classe C (Gateway)[cite: 1] |
-| **PC A1** | `FastEthernet0` | `10.0.0.2`[cite: 1, 7] | `255.0.0.0`[cite: 1, 7] | `10.0.0.1`[cite: 1, 7] | Rede Classe A[cite: 1, 7] |
-| **PC A2** | `FastEthernet0` | `10.0.0.3`[cite: 1, 7] | `255.0.0.0`[cite: 1, 7] | `10.0.0.1`[cite: 1, 7] | Rede Classe A[cite: 1, 7] |
-| **PC B1** | `FastEthernet0` | `172.16.0.2`[cite: 1, 7] | `255.255.0.0`[cite: 1, 7] | `172.16.0.1`[cite: 1, 7] | Rede Classe B[cite: 1, 7] |
-| **PC B2** | `FastEthernet0` | `172.16.0.3`[cite: 1, 7] | `255.255.0.0`[cite: 1, 7] | `172.16.0.1`[cite: 1, 7] | Rede Classe B[cite: 1, 7] |
-| **PC C1** | `FastEthernet0` | `192.168.1.2`[cite: 1, 7] | `255.255.255.0`[cite: 1, 7] | `192.168.1.1`[cite: 1, 7] | Rede Classe C[cite: 1, 7] |
-| **PC C2** | `FastEthernet0` | `192.168.1.3`[cite: 1, 7] | `255.255.255.0`[cite: 1, 7] | `192.168.1.1`[cite: 1, 7] | Rede Classe C[cite: 1, 7] |
+| **Roteador** | `GigabitEthernet0/0` | `10.0.0.1` | `255.0.0.0` | N/A | Classe A (Gateway) |
+| **Roteador** | `GigabitEthernet0/1` | `172.16.0.1` | `255.255.0.0` | N/A | Classe B (Gateway) |
+| **Roteador** | `GigabitEthernet0/2` | `192.168.1.1` | `255.255.255.0` | N/A | Classe C (Gateway) |
+| **PC A1** | `FastEthernet0` | `10.0.0.2` | `255.0.0.0` | `10.0.0.1` | Rede Classe A |
+| **PC A2** | `FastEthernet0` | `10.0.0.3` | `255.0.0.0` | `10.0.0.1` | Rede Classe A |
+| **PC B1** | `FastEthernet0` | `172.16.0.2` | `255.255.0.0` | `172.16.0.1` | Rede Classe B |
+| **PC B2** | `FastEthernet0` | `172.16.0.3` | `255.255.0.0` | `172.16.0.1` | Rede Classe B |
+| **PC C1** | `FastEthernet0` | `192.168.1.2` | `255.255.255.0` | `192.168.1.1` | Rede Classe C |
+| **PC C2** | `FastEthernet0` | `192.168.1.3` | `255.255.255.0` | `192.168.1.1` | Rede Classe C |
 
 ---
 
